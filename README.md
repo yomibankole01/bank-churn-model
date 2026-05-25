@@ -25,6 +25,5 @@ Data preprocessing (encoding, scaling) included in the pipeline
 
 **Clean visual layout with Streamlit**
 
-https://abayomibello-data-bank-churn-model-stream-app-evlrax.streamlit.app/
-
+https://bank-churn-model-1.streamlit.app/
 
